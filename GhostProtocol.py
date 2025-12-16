@@ -1,6 +1,6 @@
 # ==========================================================
 # GHOST PROTOCOL – ENTERPRISE APPSEC ASSESSMENT SUITE
-# OWASP-ALIGNED FINAL VERSION
+# OWASP-ALIGNED 
 # ==========================================================
 
 import customtkinter as ctk
